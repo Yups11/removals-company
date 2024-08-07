@@ -115,7 +115,7 @@ main {
     padding-left: 30px;
 }
 
-#cover-text > h2, #cover-text > h3 {
+#cover-text > h2, #cover-text > h3, #cover-text > p {
     color: #ffffff;
 }
 
@@ -171,10 +171,9 @@ main {
 
     /* Hero image */
     #cover-text {
-        width: 300px;
+        width: 500px;
         right: 50px;
         top: 100px;
-        margin-bottom: 550px;
         padding-left: 15px;
     }
 }
