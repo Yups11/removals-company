@@ -130,6 +130,11 @@ main {
 }
 
 /* Footer */
+
+footer {
+    background-color: #FFF724;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -190,9 +195,9 @@ main {
     /* Hero image */
     #cover-text {
         width: 500px;
-        height: 800px;
+        height: 300px;
         right: 50px;
-        top: 100px;
+        top: 85px;
         padding-left: 15px;
         padding-bottom: 50px;
     }
