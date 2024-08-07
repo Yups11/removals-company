@@ -131,8 +131,12 @@ main {
     padding-left: 30px;
 }
 
-#cover-text > h2, #cover-text > h3, #cover-text > p {
+#contact-text > h2, #contact-text > h3, #contact-text > h5 {
     color: #ffffff;
+}
+
+#contact-text > a {
+    color: #21c400;
 }
 
 /* Gallery page */
